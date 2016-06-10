@@ -8,8 +8,8 @@ description: >-
   A Unique and magical beachfront Lodge between Uvita and Dominical, nestled at
   the bottom of a 60 acres Private Reserve and Wildlife Sanctuary, established
   since 1972.
-datePublished: '2016-06-10T01:39:07.519Z'
-dateModified: '2016-06-10T01:38:39.159Z'
+datePublished: '2016-06-10T01:41:45.959Z'
+dateModified: '2016-06-10T01:39:17.064Z'
 title: ''
 author: []
 sourcePath: >-
