@@ -7,13 +7,13 @@ description: >-
   that can accommodate a max of 4 guests. Outdoor shower.The parking area is in
   the open air and a natural path of steps leads to the Lodge's entrance.another
   flight of steps to the secluded cove beach in front.3G wi-fi internet
-dateModified: '2016-06-11T01:38:56.819Z'
-datePublished: '2016-06-11T01:38:57.298Z'
+dateModified: '2016-06-11T01:45:42.060Z'
+datePublished: '2016-06-11T01:45:42.565Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-11-a-unique-and-magical-beachfront-lodge-between-uvita-and-domi.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
