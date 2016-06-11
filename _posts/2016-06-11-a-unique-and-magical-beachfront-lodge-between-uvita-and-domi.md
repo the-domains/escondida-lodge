@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-06-11T03:43:16.434Z'
-datePublished: '2016-06-11T03:43:33.354Z'
+dateModified: '2016-06-11T03:45:01.410Z'
+datePublished: '2016-06-11T03:45:12.960Z'
 description: >-
   A Unique and magical beachfront Lodge between Uvita and Dominical, nestled at
   the bottom of a 60 acres Private Reserve and Wildlife Sanctuary, established
@@ -20,7 +20,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![A humble Paradise and Ecological Refuge](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ad3ee59-0696-4d78-aeed-d8d8eda95f15.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ad3ee59-0696-4d78-aeed-d8d8eda95f15.jpg)
 
 A Unique and magical beachfront Lodge between Uvita and Dominical, nestled at the bottom of a 60 acres Private Reserve and Wildlife Sanctuary, established since 1972\.  
 The ecological refuge is 1 comfortable Oceanfront Cabin "where the jungle meets the Sea" with views all around and totally blended in Nature, that can accommodate a max of 4 guests. Outdoor shower.  
