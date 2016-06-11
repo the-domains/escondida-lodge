@@ -14,13 +14,13 @@ description: >-
   property is located about 15 minutes away from the Marine National Park, home
   of the famous whale tail. Mangrove kayaking, snorkeling, horseback riding, and
   surfing are all nearby activities which guests are also welcomed to enjoy.
-dateModified: '2016-06-11T22:56:17.713Z'
-datePublished: '2016-06-11T22:56:18.396Z'
+dateModified: '2016-06-11T23:12:33.862Z'
+datePublished: '2016-06-11T23:12:34.699Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-11-to-know-about-rates-and-availability-book-or-ask-further-qu.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
