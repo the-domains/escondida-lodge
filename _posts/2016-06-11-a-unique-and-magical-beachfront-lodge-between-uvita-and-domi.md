@@ -1,12 +1,12 @@
 ---
 description: ''
-dateModified: '2016-06-11T02:07:05.496Z'
-datePublished: '2016-06-11T02:07:06.011Z'
+dateModified: '2016-06-11T02:07:17.593Z'
+datePublished: '2016-06-11T02:07:18.113Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-11-a-unique-and-magical-beachfront-lodge-between-uvita-and-domi.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
