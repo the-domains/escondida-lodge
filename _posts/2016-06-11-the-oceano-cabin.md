@@ -1,11 +1,11 @@
 ---
 description: The OCEANO CABIN
-dateModified: '2016-06-11T23:18:16.017Z'
-datePublished: '2016-06-11T23:29:29.523Z'
+dateModified: '2016-06-11T23:33:06.472Z'
+datePublished: '2016-06-11T23:33:22.884Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-11-the-oceano-cabin.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -16,4 +16,4 @@ _type: MediaObject
 
 The OCEANO CABIN
 
-Feature a stunning terrace with ocean view and is tackled in its beautiful piece of jungle
+One of our cabins in the Jungle side The Ocean Cabin with an outdoor shower has a large balcony above the trees with an amazing view of the ocean.
