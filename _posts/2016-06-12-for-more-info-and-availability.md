@@ -1,7 +1,7 @@
 ---
-description: 'Rates: $95 (2 people), $105 (3 people), $115 (4 people)'
-dateModified: '2016-06-12T03:27:06.598Z'
-datePublished: '2016-06-12T03:28:29.305Z'
+description: 'Rates: '
+dateModified: '2016-06-12T03:30:19.408Z'
+datePublished: '2016-06-12T03:30:30.121Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-12-for-more-info-and-availability.md
@@ -12,10 +12,12 @@ inNav: false
 _type: MediaObject
 
 ---
-Rates: $95 (2 people), $105 (3 people), $115 (4 people)
+Rates: 
 
-For enquiries and calendar availability:
+$95 (2 people), $105 (3 people), $115 (4 people)
+
+Reservations :
 
 playaescondidalodge@gmail.com
 
-tel. + (506) 6116-9394
+tel. + (506) 6004-0123
