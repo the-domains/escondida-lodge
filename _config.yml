@@ -1,6 +1,6 @@
 name: Escondida Lodge
 favicon: null
-layout_spectrum: 0.75014
+layout_spectrum: 0.00842
 typography_spectrum: 0.27584635629318655
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  brandStrength: 0.3839628347195685
+  brandStrength: 0.375
   lightness: 0.818968036910519
   saturation: 0.8546833738218993
   rhythmicContrast: 0.02084038918837905
