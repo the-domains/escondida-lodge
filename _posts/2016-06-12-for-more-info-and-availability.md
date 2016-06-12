@@ -1,18 +1,20 @@
 ---
-description: 'For more info and availability:'
-dateModified: '2016-06-12T03:13:31.877Z'
-datePublished: '2016-06-12T03:13:32.724Z'
+description: 'Rates: $95 (2 people), $105 (3 people), $115 (4 people)'
+dateModified: '2016-06-12T03:27:06.598Z'
+datePublished: '2016-06-12T03:28:29.305Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-12-for-more-info-and-availability.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-For more info and availability:
+Rates: $95 (2 people), $105 (3 people), $115 (4 people)
+
+For enquiries and calendar availability:
 
 playaescondidalodge@gmail.com
 
