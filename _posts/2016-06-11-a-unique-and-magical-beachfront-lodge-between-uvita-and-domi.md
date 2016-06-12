@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-06-12T03:06:36.488Z'
-datePublished: '2016-06-12T03:08:43.821Z'
+dateModified: '2016-06-12T03:09:13.878Z'
+datePublished: '2016-06-12T03:09:18.899Z'
 description: the Beach Lodge
 title: ''
 author: []
@@ -13,4 +13,4 @@ inNav: false
 _type: MediaObject
 
 ---
-![the Beach Lodge](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ad3ee59-0696-4d78-aeed-d8d8eda95f15.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ad3ee59-0696-4d78-aeed-d8d8eda95f15.jpg)
