@@ -1,12 +1,7 @@
 ---
-dateModified: '2016-06-12T02:58:14.565Z'
-datePublished: '2016-06-12T02:58:16.235Z'
-description: >-
-  A Unique and magical beachfront Lodge, the ecological refuge is 1 comfortable
-  Oceanfront Cabin with views all around and totally blended in Nature, that can
-  accommodate a max of 4 guests. Outdoor shower.The parking area is in the open
-  air and a natural path of steps leads to the Lodge's entrance.another flight
-  of steps to the secluded cove beach in front.3G wi-fi internet
+dateModified: '2016-06-12T03:06:29.295Z'
+datePublished: '2016-06-12T03:06:33.958Z'
+description: the Beach Lodge
 title: The beach Lodge
 author: []
 sourcePath: >-
@@ -19,9 +14,4 @@ _type: MediaObject
 
 ---
 # The beach Lodge
-![the Beach Eco Lodge](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ad3ee59-0696-4d78-aeed-d8d8eda95f15.jpg)
-
-A Unique and magical beachfront Lodge, the ecological refuge is 1 comfortable Oceanfront Cabin with views all around and totally blended in Nature, that can accommodate a max of 4 guests. Outdoor shower.  
-The parking area is in the open air and a natural path of steps leads to the Lodge's entrance.  
-another flight of steps to the secluded cove beach in front.  
-3G wi-fi internet
+![the Beach Lodge](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ad3ee59-0696-4d78-aeed-d8d8eda95f15.jpg)
