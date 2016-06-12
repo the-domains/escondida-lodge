@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-06-11T23:52:42.097Z'
-datePublished: '2016-06-11T23:52:42.636Z'
+dateModified: '2016-06-12T02:42:59.302Z'
+datePublished: '2016-06-12T02:42:59.681Z'
 description: >-
   A Unique and magical beachfront Lodge, the ecological refuge is 1 comfortable
   Oceanfront Cabin with views all around and totally blended in Nature, that can
@@ -11,7 +11,7 @@ title: The beach Lodge
 author: []
 sourcePath: >-
   _posts/2016-06-11-a-unique-and-magical-beachfront-lodge-between-uvita-and-domi.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
