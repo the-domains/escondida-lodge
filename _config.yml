@@ -1,20 +1,4 @@
-name: Escondida Lodge
-favicon: null
-layout_spectrum: 0.4093898511491716
 typography_spectrum: 0.27584635629318655
-title: Escondida Lodge - Costa Rica
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0e0d13'
@@ -26,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0.8546833738218993
   rhythmicContrast: 0.02084038918837905
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4093898511491716
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Escondida Lodge
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Escondida Lodge - Costa Rica
 purpose: []
