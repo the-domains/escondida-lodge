@@ -1,4 +1,4 @@
-layout_spectrum: 0.06323667545802891
+layout_spectrum: 0.246594492578879
 typography_spectrum: 0.27760049421340227
 color:
   brandColors:
@@ -11,6 +11,8 @@ color:
   lightness: 0.5216936480719596
   saturation: 0.1403542305342853
   rhythmicContrast: 0.6601873440667987
+coverPrefs:
+  filter: false
 name: 'Escondida Lodge, Costa Rica'
 cta: {}
 analytics: {}
