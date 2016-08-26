@@ -1,5 +1,6 @@
-layout_spectrum: 0.246594492578879
 typography_spectrum: 0.27760049421340227
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,19 +12,22 @@ color:
   lightness: 0.5216936480719596
   saturation: 0.1403542305342853
   rhythmicContrast: 0.6601873440667987
-coverPrefs:
-  filter: false
-name: 'Escondida Lodge, Costa Rica'
-cta: {}
-analytics: {}
 opengraph:
   type: ''
   appId: ''
-purpose: []
-title: ''
+layout_spectrum: 0.246594492578879
+analytics: {}
 author:
   name: Playa Escondida Lodge
   url: ''
   email: playaescondidalodge@gmail.com
-content_rating:
-  adult: false
+name: 'Escondida Lodge, Costa Rica'
+cta: {}
+navigation:
+  - name: the beach Lodge
+    id: eb4e4436-c5b9-4cae-9e48-b75fe4126bad
+    type: content
+title: ''
+coverPrefs:
+  filter: false
+purpose: []
